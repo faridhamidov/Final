@@ -1,0 +1,11 @@
+1.create new repository in github and get URL
+
+2.
+git init
+git remote add origin URL
+git status (just to check, not important)
+git add .
+git status (to check again)
+git commit -m "initial commit"
+git push origin master
+
